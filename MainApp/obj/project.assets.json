@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
+      },
+      "Servise/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Servise.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Servise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
+    },
+    "Servise/1.0.0": {
+      "type": "project",
+      "path": "../Servise/Servise.csproj",
+      "msbuildProject": "../Servise/Servise.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Domain >= 1.0.0",
+      "Servise >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hhp\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\hhp\\Desktop\\c# course\\HomeWork\\Hometask\\mainapp\\MainApp.csproj",
+      "projectName": "MainApp",
+      "projectPath": "C:\\Users\\hhp\\Desktop\\c# course\\HomeWork\\Hometask\\mainapp\\MainApp.csproj",
+      "packagesPath": "C:\\Users\\hhp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hhp\\Desktop\\c# course\\HomeWork\\Hometask\\mainapp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\hhp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\hhp\\Desktop\\c# course\\HomeWork\\Hometask\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\hhp\\Desktop\\c# course\\HomeWork\\Hometask\\Domain\\Domain.csproj"
+            },
+            "c:\\Users\\hhp\\Desktop\\c# course\\HomeWork\\Hometask\\Servise\\Servise.csproj": {
+              "projectPath": "c:\\Users\\hhp\\Desktop\\c# course\\HomeWork\\Hometask\\Servise\\Servise.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

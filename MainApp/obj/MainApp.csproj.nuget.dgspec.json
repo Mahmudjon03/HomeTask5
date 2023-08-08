@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hhp\\Desktop\\c# course\\HomeWork\\Hometask\\mainapp\\MainApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hhp\\Desktop\\c# course\\HomeWork\\Hometask\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hhp\\Desktop\\c# course\\HomeWork\\Hometask\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\hhp\\Desktop\\c# course\\HomeWork\\Hometask\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\hhp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hhp\\Desktop\\c# course\\HomeWork\\Hometask\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hhp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hhp\\Desktop\\c# course\\HomeWork\\Hometask\\mainapp\\MainApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hhp\\Desktop\\c# course\\HomeWork\\Hometask\\mainapp\\MainApp.csproj",
+        "projectName": "MainApp",
+        "projectPath": "C:\\Users\\hhp\\Desktop\\c# course\\HomeWork\\Hometask\\mainapp\\MainApp.csproj",
+        "packagesPath": "C:\\Users\\hhp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hhp\\Desktop\\c# course\\HomeWork\\Hometask\\mainapp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hhp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\hhp\\Desktop\\c# course\\HomeWork\\Hometask\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\hhp\\Desktop\\c# course\\HomeWork\\Hometask\\Domain\\Domain.csproj"
+              },
+              "c:\\Users\\hhp\\Desktop\\c# course\\HomeWork\\Hometask\\Servise\\Servise.csproj": {
+                "projectPath": "c:\\Users\\hhp\\Desktop\\c# course\\HomeWork\\Hometask\\Servise\\Servise.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\hhp\\Desktop\\c# course\\HomeWork\\Hometask\\Servise\\Servise.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\hhp\\Desktop\\c# course\\HomeWork\\Hometask\\Servise\\Servise.csproj",
+        "projectName": "Servise",
+        "projectPath": "c:\\Users\\hhp\\Desktop\\c# course\\HomeWork\\Hometask\\Servise\\Servise.csproj",
+        "packagesPath": "C:\\Users\\hhp\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\hhp\\Desktop\\c# course\\HomeWork\\Hometask\\Servise\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hhp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\hhp\\Desktop\\c# course\\HomeWork\\Hometask\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\hhp\\Desktop\\c# course\\HomeWork\\Hometask\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

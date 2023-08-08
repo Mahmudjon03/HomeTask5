@@ -1,0 +1,15 @@
+C:\Users\hhp\Desktop\c# course\HomeWork\Hometask\Servise\bin\Debug\net7.0\Servise.deps.json
+C:\Users\hhp\Desktop\c# course\HomeWork\Hometask\Servise\bin\Debug\net7.0\Servise.dll
+C:\Users\hhp\Desktop\c# course\HomeWork\Hometask\Servise\bin\Debug\net7.0\Servise.pdb
+C:\Users\hhp\Desktop\c# course\HomeWork\Hometask\Servise\bin\Debug\net7.0\Domain.dll
+C:\Users\hhp\Desktop\c# course\HomeWork\Hometask\Servise\bin\Debug\net7.0\Domain.pdb
+C:\Users\hhp\Desktop\c# course\HomeWork\Hometask\Servise\obj\Debug\net7.0\Servise.csproj.AssemblyReference.cache
+C:\Users\hhp\Desktop\c# course\HomeWork\Hometask\Servise\obj\Debug\net7.0\Servise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhp\Desktop\c# course\HomeWork\Hometask\Servise\obj\Debug\net7.0\Servise.AssemblyInfoInputs.cache
+C:\Users\hhp\Desktop\c# course\HomeWork\Hometask\Servise\obj\Debug\net7.0\Servise.AssemblyInfo.cs
+C:\Users\hhp\Desktop\c# course\HomeWork\Hometask\Servise\obj\Debug\net7.0\Servise.csproj.CoreCompileInputs.cache
+C:\Users\hhp\Desktop\c# course\HomeWork\Hometask\Servise\obj\Debug\net7.0\Servise.csproj.CopyComplete
+C:\Users\hhp\Desktop\c# course\HomeWork\Hometask\Servise\obj\Debug\net7.0\Servise.dll
+C:\Users\hhp\Desktop\c# course\HomeWork\Hometask\Servise\obj\Debug\net7.0\refint\Servise.dll
+C:\Users\hhp\Desktop\c# course\HomeWork\Hometask\Servise\obj\Debug\net7.0\Servise.pdb
+C:\Users\hhp\Desktop\c# course\HomeWork\Hometask\Servise\obj\Debug\net7.0\ref\Servise.dll
